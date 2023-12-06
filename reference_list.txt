@@ -1,0 +1,121 @@
+[1]	U.S. Hsu, U.D. Hung, J.W. Yeh, S.K. Chen, Y.S. Huang, C.C. Yang. Alloying behavior of iron, gold and silver in AlCoCrCuNi-based equimolar high-entropy alloys, Mater. Sci. Eng. A 460-461 (2007) 403-408.
+[2]	G.-Y. Ke, S.-K. Chen, T. Hsu, J.-W. Yeh. FCC and BCC equivalents in as-cast solid solutions of AlxCo yCrzCu0.5FevNiw high-entropy alloys, Ann. Chim. Sci. Mat. 31 (2006) 669-683.
+[3]	S. Praveen, B.S. Murty, R.S. Kottada. Alloying behavior in multi-component AlCoCrCuFe and NiCoCrCuFe high entropy alloys, Mater. Sci. Eng. A 534 (2012) 83-89.
+[4]	B.S. Li, Y.P. Wang, M.X. Ren, C. Yang, H.Z. Fu. Effects of Mn, Ti and V on the microstructure and properties of AlCrFeCoNiCu high entropy alloy, Mater. Sci. Eng. A 498 (2008) 482-486.
+[5]	Y.J. Zhou, Y. Zhang, Y.L. Wang, G.L. Chen. Microstructure and compressive properties of multicomponent Alx(TiVCrMnFeCoNiCu)100−x high-entropy alloys, Mater. Sci. Eng. A 454-455 (2007) 260-265.
+[6]	J.M. Zhu, H.F. Zhang, H.M. Fu, A.M. Wang, H. Li, Z.Q. Hu. Microstructures and compressive properties of multicomponent AlCoCrCuFeNiMox alloys, J. Alloys Compd. 497 (2010) 52-56.
+[7]	Y.J. Zhou, Y. Zhang, F.J. Wang, G.L. Chen. Phase transformation induced by lattice distortion in multiprincipal component CoCrFeNiCuxAl1−x solid-solution alloys, Appl. Phys. Lett. 92 (2008) 241917.
+[8]	M.-H. Tsai, Y. Yuan, G. Cheng, W. Xu, K.-Y. Tsai, C.-W. Tsai, W.W. Jian, C.-C. Juan, W.-J. Shen, M.-H. Chuang, J.-W. Yeh, Y.T. Zhu. Morphology, structure and composition of precipitates in Al0.3CoCrCu0.5FeNi high-entropy alloy, Intermetallics 32 (2013) 329-336.
+[9]	J.-W. Yeh, S.-K. Chen, S.-J. Lin, J.-Y. Gan, T.-S. Chin, T.-T. Shun, C.-H. Tsau, S.-Y. Chang. Nanostructured high-entropy alloys with multiple principal elements: Novel alloy design concepts and outcomes, Adv. Eng. Mat. 6 (2004) 299-303.
+[10]	H.-Y. Chen, C.-W. Tsai, C.-C. Tung, J.-W. Yeh, T.-T. Shun, C.-C. Yang, S.-K. Chen. Effect of the substitution of Co by Mn in Al-Cr-Cu-Fe-Co-Ni high-entropy alloys, Ann. Chim. Sci. Mat. 31 (2006) 685-698.
+[11]	A. Manzoni, H. Daoud, S. Mondal, S. van Smaalen, R. Volkl, U. Glatzel, N. Wanderka. Investigation of phases in Al23Co15Cr23Cu8Fe15Ni16 and Al8Co17Cr17Cu8Fe17Ni33 high entropy alloys and comparison with equilibrium phases predicted by Thermo-Calc, J. Alloys Compd. 552 (2013) 430-436.
+[12]	J.-W. Yeh, S.-K. Chen, J.-W. Gan, S.-J. Lin, T.-S. Chin, T.-T.Shun, C.-H. Tsau, S.-Y. Chang. Formation of simple crystal structures in Cu-Co-Ni-Cr-Al-Fe-Ti-V alloys with multiprincipal metallic elements, Metall. Mater. Trans. A 35A (2004) 2533-2536.
+[13]	C.-Y. Hsu, J.-W. Yeh, S.-K. Chen, T.-T.Shun. Wear resistance and high-temperature compression strength of FCC CuCoNiCrAl0.5Fe alloy with boron addition, Metall. Mater. Trans. A 35A (2004) 1465-1469.
+[14]	J.-M. Wu, S.-J. Lin, J.-W. Yeh, S.-K. Chen, Y.-S. Huang. Adhesive wear behavior of AlxCoCrCuFeNi high-entropy alloys as a function of aluminum content, Wear 261 (2006) 513-519.
+[15]	M.-R. Chen, S.-J. Lin, J.-W. Yeh, S.-K. Chen, Y.-S. Huang, C.-P. Tu. Microstructure and properties of Al0.5CoCrCuFeNiTix (x=0-2.0) high-entropy alloys, Materials Transactions 47 (2006) 1395-1401.
+[16]	M.-R. Chen, S.-J. Lin, J.-W. Yeh, S.-K. Chen, Y.-S. Huang, M.-H. Chuang. Effect of vanadium addition on the microstructure, hardness, and wear resistance of Al0.5CoCrCuFeNi high-entropy alloy, Metall. Mater. Trans. A 37 (2006) 1363-1369.
+[17]	C.-C. Tung, J.-W. Yeh, T.-T. Shun, S.-K. Chen, Y.-S. Huang, H.-C. Chen. On the elemental effect of AlCoCrCuFeNi high-entropy alloy system, Mater. Lett. 61 (2007) 1-5.
+[18]	C.-W. Tsai, Y.-L. Chen, M.-H. Tsai, J.-W. Yeh, T.-T. Shun, S.-K. Chen. Deformation and annealing behaviors of high-entropy alloy Al0.5CoCrCuFeNi, J. Alloys Compd. 486 (2009) 427-435.
+[19]	C.-W. Tsai, M.-H. Tsai, J.-W. Yeh, C.-C. Yang. Effect of temperature on mechanical properties of Al0.5CoCrCuFeNi wrought alloy, J. Alloys Compd. 490 (2010) 160-165.
+[20]	C. Ng, S. Guo, J.H. Luan, S.Q. Shi., C.T. Liu. Entropy-driven phase stability and slow diffusion kinetics in an Al0.5CoCrCuFeNi high entropy alloy, Intermetallics 31 (2012) 165-172.
+[21]	M.A. Hemphill, T. Yuan, A.M. Wang, J.-W. Yeh, C.-W. Tsai, A. Chuang, P.K. Liaw. Fatigue behavior of Al0.5CoCrCuFeNi high entropy alloys, Acta Mater. 60 (2012) 5723-5734.
+[22]	H.F. Sheng, L.M. Peng. Microstructure and tensile properties of Al0.5CoCrCuFeNi high-entropy alloy, Appl. Mech. Mater. 456 (2014) 494-497.
+[23]	Z. Liu, S. Guo, X. Liu, J. Ye, Y. Yang, X.-L. Wang, L. Yang, K. An, C.T. Liu. Micromechanical characterization of casting-induced inhomogeneity in an Al0.8CoCrCuFeNi high-entropy alloy, Scripta Mater. 64 (2011) 868-871.
+[24]	Y. Zhang, Y.J. Zhou, J.P. Lin, G.L. Chen, P.K. Liaw. Solid-solution phase formation rules for multi-component alloys, Adv. Eng. Mat. 10 (2008) 534-538.
+[25]	J.-W. Yeh, S.-Y. Chang, Y.-D. Honga, S.-K. Chen, S.-J. Lin. Anomalous decrease in X-ray diffraction intensities of Cu–Ni–Al–Co–Cr–Fe–Si alloy systems with multi-principal elements, Mat. Chem. Phys. 103 (2007) 41-46.
+[26]	L.H. Wen, H.C. Kou, J.S. Li, H. Chang, X.Y. Xue, L. Zhou. Effect of aging temperature on microstructure and properties of AlCoCrCuFeNi high-entropy alloy, Intermetallics 17 (2009) 266-269.
+[27]	K.B. Zhang, Z.Y. Fu, J.Y. Zhang, J. Shi, W.M. Wang, H. Wang, Y.C. Wang, Q.J. Zhang. Annealing on the structure and properties evolution of the CoCrFeNiCuAl high-entropy alloy, J. Alloys Compd. 502 (2010) 295-299.
+[28]	S. Singh, N. Wanderka, B.S. Murty, U. Glatzel, J. Banhart. Decomposition in multi-component AlCoCrCuFeNi high-entropy alloy, Acta Mater. 59 (2011) 182-190.
+[29]	M.S. Lucas, L. Mauger, J.A. Munoz, Y.M. Xiao, A.O. Sheets, S.L. Semiatin, J. Horwath, Z. Turgut. Magnetic and vibrational properties of high-entropy alloys, J. Appl. Phys. 109 (2011).
+[30]	A.V. Kuznetsov, D.G. Shaysultanov, N.D. Stepanov, G.A. Salishchev, O.N. Senkov. Tensile properties of an AlCrCuNiFeCo high-entropy alloy in as-cast and wrought conditions, Mater. Sci. Eng. A 533 (2012) 107-118.
+[31]	Y.X. Zhuang, W.J. Liu, Z.Y. Chen, H.D. Xue, J.C. He. Effect of elemental interaction on microstructure and mechanical properties of FeCoNiCuAl alloys, Mater. Sci. Eng. A 556 (2012) 395-399.
+[32]	Y.Y. Chen, U.T. Hong, J.W. Yeh, H.C. Shih. Mechanical properties of a bulk Cu0.5NiAlCoCrFeSi glassy alloy in 288 degrees C high-purity water, Appl. Phys. Lett. 87 (2005) 261918.
+[33]	F.J. Wang, Y. Zhang, G.L. Chen. Atomic packing efficiency and phase transition in a high entropy alloy, J. Alloys Compd. 478 (2009) 321-324.
+[34]	Y.J. Zhou, Y. Zhang, F.J. Wang, Y.L. Wang, G.L. Chen. Effect of Cu addition on the microstructure and mechanical properties of AlCoCrFeNiTi0.5 solid-solution alloy, J. Alloys Compd. 466 (2008) 201-204.
+[35]	Z. Hu, Y. Zhan, G. Zhang, J. She, C. Li. Effect of rare earth Y addition on the microstructure and mechanical properties of high entropy AlCoCrCuNiTi alloys, Mater. Design 31 (2010) 1599-1602.
+[36]	J.Y. He, W.H. Liu, H. Wang, Y. Wu, X.J. Liu, T.G. Nieh, Z.P. Lu. Effects of Al addition on structural evolution and tensile properties of the FeCoNiCrMn high-entropy alloy system, Acta Mater. 62 (2014) 105-113.
+[37]	M.-H. Tsai, K.-Y. Tsai, C.-W. Tsai, C. Lee, C.-C. Juan, J.-W. Yeh. Criterion for sigma phase formation in Cr- and V-containing high-entropy alloys, Mater. Res. Lett. 1 (2013) 207-212.
+[38]	T.-T. Shun, C.-H. Hung, C.-F. Lee. Formation of ordered/disordered nanoparticles in FCC high entropy alloys, J. Alloys Compd. 493 (2010) 105-109.
+[39]	T.-T. Shun, C.-H. Hung, C.-F. Lee. The effects of secondary elemental Mo or Ti addition in Al0.3CoCrFeNi high-entropy alloy on age hardening at 700 C, J. Alloys Compd. 495 (2010) 55-58.
+[40]	C.-Y. Hsu, W.-R. Wang, W.-Y. Tang, S.-K. Chen, J.-W. Yeh. Microstructure and mechanical properties of new AlCoxCrFeMo0.5Ni high-entropy alloys, Adv. Eng. Mat. 12 (2010) 44-49.
+[41]	C.-Y. Hsu, C.-C. Juan, W.-R. Wang, T.-S. Sheu, J.-W. Yeh, S.-K. Chen. On the superior hot hardness and softening resistance of AlCoCrxFeMo0.5Ni high-entropy alloys, Mater. Sci. Eng. A 528 (2011) 3581-3588.
+[42]	C.-Y. Hsu, T.-S. Sheu, J.-W. Yeh, S.-K. Chen. Effect of iron content on wear behavior of AlCoCrFexMo0.5Ni high-entropy alloys, Wear 268 (2010) 653-659.
+[43]	J.M. Zhu, H.M. Fu, H.F. Zhang, A.M. Wang, H. Li, Z.Q. Hu. Microstructures and compressive properties of multicomponent AlCoCrFeNiMox alloys, Mater. Sci. Eng. A 527 (2010) 6975-6979.
+[44]	S.G. Ma, Y. Zhang. Effect of Nb addition on the microstructure and properties of AlCoCrFeNi high-entropy alloy, Mater. Sci. Eng. A 532 (2012) 480-486.
+[45]	Y. Zhang, X. Yang, P.K. Liaw. Alloy design and properties optimization of high-entropy alloys, JOM 64 (2012) 830-838.
+[46]	W.-R. Wang, W.-L. Wang, S.-C. Wang, Y.-C. Tsai, C.-H. Lai, J.-W. Yeh. Effects of Al addition on the microstructure and mechanical property of AlxCoCrFeNi high-entropy alloys, Intermetallics 26 (2012) 44-51.
+[47]	Y.-F. Kao, T.-J. Chen, S.-K. Chen, J.-W. Yeh. Microstructure and mechanical property of as-cast, -homogenized, and -deformed AlxCoCrFeNi (0≤x≤2) high-entropy alloys, J. Alloys Compd. 488 (2009) 57-64.
+[48]	H.-P. Chou, Y.-S. Chang, S.-K. Chen, J.-W. Yeh. Microstructure, thermophysical and electrical properties in AlxCoCrFeNi (0≤x≤2) high-entropy alloys, Mater. Sci. Eng. B 163 (2009) 184-189.
+[49]	T.-T. Shun, Y.-C. Du. Microstructure and tensile behaviors of FCC Al0.3CoCrFeNi high entropy alloy, J. Alloys Compd. 479 (2009) 157-160.
+[50]	T.M. Butler, J.P. Alfano, R.L. Martens, M.L. Weaver. High-Temperature Oxidation Behavior of Al-Co-Cr-Ni-(Fe or Si) Multicomponent High-Entropy Alloys, JOM 67 (2015) 246-259.
+[51]	C.-M. Lin, H.-L. Tsai. Evolution of microstructure, hardness, and corrosion properties of high-entropy Al0.5CoCrFeNi alloy, Intermetallics 19 (2011) 288-294.
+[52]	Y.J. Zhou, Y. Zhang, Y.L. Wang, G.L. Chen. Solid solution alloys of AlCoCrFeNiTix with excellent room-temperature mechanical properties, Appl. Phys. Lett. 90 (2007) 181904.
+[53]	Y.P. Wang, B.S. Li, M.X. Ren, C. Yang, H.Z. Fu. Microstructure and compressive properties of AlCrFeCoNi high entropy alloy, Mater. Sci. Eng. A 491 (2008) 154-158.
+[54]	C. Li, M. Zhao, J.C. Li, Q. Jiang. B2 structure of high-entropy alloys with addition of Al, J. Appl. Phys. 104 (2008) 113504.
+[55]	F.J. Wang, Y. Zhang, H.A. Davies, G.L. Chen. Cooling Rate and Size Effect on the Microstructure and Mechanical Properties of AlCoCrFeNi High Entropy Alloy, J. Eng. Mat. Tech 131 (2009) 034501 034501-034503.
+[56]	C. Li, J.C. Li, M. Zhao, Q. Jiang. Effect of aluminum contents on microstructure and properties of AlxCoCrFeNi alloys, J. Alloys Compd. 504 (2010) S515-S518.
+[57]	J.M. Zhu, H.M. Fu, H.F. Zhang, A.M. Wang, H. Li, Z.Q. Hu. Synthesis and properties of multiprincipal component AlCoCrFeNiSix alloys, Mater. Sci. Eng. A 527 (2010) 7210-7214.
+[58]	J.M. Zhu, H.M. Fu, H.F. Zhang, A.M. Wang, H. Li, Z.Q. Hu. Microstructure and compressive properties of multiprincipal component AlCoCrFeNiCx alloys, J. Alloys Compd. 509 (2011) 3476-3480.
+[59]	Y. Zhang, S.G. Ma, J.W. Qiao. Morphology transition from dendrites to equiaxed grains for AlCoCrFeNi high-entropy alloys by copper mold casting and Bridgman solidification, Metall. Mater. Trans. A 43A (2012) 2625-2630.
+[60]	Y. Lu, Y. Dong, S. Guo, L. Jiang, H. Kang, T. Wang, B. Wen, Z. Wang, J. Jie, Z. Cao, H. Ruan, T. Li. A Promising New Class of High-Temperature Alloys: Eutectic High-Entropy Alloys, Sci. Rep. 4 (2014).
+[61]	S.K. Chen, Y.F. Kao. Near-constant resistivity in 4.2-360 K in a B2 Al2.08CoCrFeNi, AIP Adv. 2 (2012).
+[62]	M.-H. Chuang, M.-H. Tsai, W.-R. Wang, S.-J. Lin, J.-W. Yeh. Microstructure and wear behavior of AlxCo1.5CrFeNi1.5Tiy high-entropy alloys, Acta Mater. 59 (2011) 6308-6317.
+[63]	K.B. Zhang, Z.Y. Fu, J.Y. Zhang, W.M. Wang, H. Wang, Y.C. Wang, Q.J. Zhang, J. Shi. Microstructure and mechanical properties of CoCrFeNiTiAlx high-entropy alloys, Mater. Sci. Eng. A 508 (2009) 214-219.
+[64]	K.B. Zhang, Z.Y. Fu. Effects of annealing treatment on phase composition and microstructure of CoCrFeNiTiAlx high-entropy alloys, Intermetallics 22 (2012) 24-32.
+[65]	Z. Fu, W. Chen, S. Fang, D.X. Zhang, H. Xiao, D. Zhu. Alloying behavior and deformation twinning in a CoNiFeCrAl0.6Ti0.4 high entropy alloy processed by spark plasma sintering, J. Alloys Compd. 553 (2013) 316-323.
+[66]	F.J. Wang, Y. Zhang. Effect of Co addition on crystal structure and mechanical properties of Ti0.5CrFeNiAlCo high entropy alloy, Mater. Sci. Eng. A 496 (2008) 214-216.
+[67]	Y. Zhuang, W. Liu, P. Xing, F. Wang, J. He. Effect of Co element on microstructure and mechanical properties of FeCoxNiCuAl alloys, Acta Metall. Sin. 25 (2012) 124-130.
+[68]	X. Wang, H. Xie, L. Jia, Z.L. Lu. Effect of Ti, Al and Cu addition on structural evolution and phase constitution of FeCoNi system equimolar alloys, Mater. Sci. Forum 724 (2012) 335-338.
+[69]	S. Varalakshmi, M. Kamaraj, B.S. Murty. Processing and properties of nanocrystalline CuNiCoZnAlTi high entropy alloys by mechanical alloying, Mater. Sci. Eng. A 527 (2010) 1027-1030.
+[70]	T.T. Zuo, R.B. Li, X.J. Ren, Y. Zhang. Effects of Al and Si addition on the structure and properties of CoFeNi equal atomic ratio alloy, J. Magn. Magn. Mater. 371 (2014) 60-68.
+[71]	W. Chen, Z. Fu, S. Fang, Y. Wang, H. Xiao, D. Zhu. Processing, microstructure and properties of Al0.6CoNiFeTi0.4 high entropy alloy with nanoscale twins, Mater. Sci. Eng. A 565 (2013) 439-444.
+[72]	S. Guo, C. Ng, C.T. Liu. Anomalous solidification microstructures in Co-free AlxCrCuFeNi2 high-entropy alloys, J. Alloys Compd. 557 (2013) 77-81.
+[73]	S. Guo, C. Ng, J. Lu, C.T. Liu. Effect of valence electron concentration on stability of fcc or bcc phase in high entropy alloys, J. Appl. Phys. 109 (2011) 103505.
+[74]	P. Jinhong, P. Ye, Z. Hui, Z. Lu. Microstructure and properties of AlCrFeCuNix (0.6<x<1.4) high-entropy alloys, Mater. Sci. Eng. A 534 (2012) 228-233.
+[75]	M. Chen, Y. Liu, Y.X. Li, X. Chen. Microstructure and mechanical properties of AlTiFeNiCuCrx high-entropy alloy with multi-principal elements, Acta Metall. Sin. 43 (2007) 1020-1024.
+[76]	J.-H. Pi, Y. Pan, L. Zhang, H. Zhang. Microstructure and property of AlTiCrFeNiCu high-entropy alloy, J. Alloys Compd. 509 (2011) 5641-5645.
+[77]	C.-P. Lee, C.-C. Chang, Y.-Y. Chen, J.-W. Yeh, H.-C. Shih. Effect of the aluminium content of AlxCrFe1.5MnNi0.5 high-entropy alloys on the corrosion behaviour in aqueous environments, Corros. Sci. 50 (2008) 2053-2060.
+[78]	S.-T. Chen, W.-Y. Tang, Y.-F. Kuo, S.-Y. Chen, C.-H. Tsau, T.-T. Shun, J.-W. Yeh. Microstructure and properties of age-hardenable AlxCrFe1.5MnNi0.5 alloys, Mater. Sci. Eng. A 527 (2010) 5818-5825.
+[79]	Y. Dong, Y. Lu, J. Kong, J. Zhang, T. Li. Microstructure and mechanical properties of multi-component AlCrFeNiMox high-entropy alloys, J. Alloys Compd. 573 (2013) 96-101.
+[80]	Y.Y. Du, Y.P. Lu, T.J. Li, T.M. Wang, G.L. Zhang. Effect of aluminium content of AlxCrFe1.5Ni0.5 multiprincipal alloys on microstructure and alloy hardness, Mater. Res. Innov. 15 (2011) 107-110.
+[81]	F. Otto, Y. Yang, H. Bei, E.P. George. Relative effects of enthalpy and entropy on the phase stability of equiatomic high-entropy alloys, Acta Mater. 61 (2013) 2628-2638.
+[82]	B. Cantor, I.T.H. Chang, P. Knight, A.J.B. Vincent. Microstructural development in equiatomic multicomponent alloys, Mater. Sci. Eng. A 375-377 (2004) 213-218.
+[83]	Y.-J. Hsu, W.-C. Chiang, J.-K. Wu. Corrosion behavior of FeCoNiCrCux high-entropy alloys in 3.5% sodium chloride solution, Mater. Chem. Phys. 92 (2005) 112-117.
+[84]	C.-M. Lin, H.-L. Tsai. Equilibrium phase of high-entropy FeCoNiCrCu0.5 alloy at elevated temperature, J. Alloys Compd. 489 (2010) 30-35.
+[85]	C.-M. Lin, H.-L. Tsai, H.-Y. Bor. Effect of aging treatment on microstructure and properties of high-entropy Cu0.5CoCrFeNi alloy, Intermetallics 18 (2010) 1244-1250.
+[86]	X.F. Wang, Y. Zhang, Y. Qiao, G.L. Chen. Novel microstructure and properties of multicomponent CoCrCuFeNiTix alloys, Intermetallics 15 (2007) 357-362.
+[87]	Y. Deng, C.C. Tasan, K.G. Pradeep, H. Springer, A. Kostka, D. Raabe. Design of a twinning-induced plasticity high entropy alloy, Acta Mater. 94 (2015) 124-133.
+[88]	M.J. Yao, K.G. Pradeep, C.C. Tasan, D. Raabe. A novel, single phase, non-equiatomic FeMnNiCoCr high-entropy alloy with exceptional phase stability and tensile ductility, Scripta Mater. 72-73 (2014) 5-8.
+[89]	Z. Wu, H. Bei, F. Otto, G.M. Pharr, E.P. George. Recovery, recrystallization, grain growth and phase stability of a family of FCC-structured multi-component equiatomic solid solution alloys, Intermetallics 46 (2014) 131-140.
+[90]	B. Schuh, F. Mendez-Martin, B. Volker, E.P. George, H. Clemens, R. Pippan, A. Hohenwarter. Mechanical properties, microstructure and thermal stability of a nanocrystalline CoCrFeMnNi high-entropy alloy after severe plastic deformation, Acta Mater. 96 (2015) 258-268.
+[91]	A.J. Zaddach, R.O. Scattergood, C.C. Koch. Tensile properties of low-stacking fault energy high-entropy alloys, Mat. Sci. Eng. A 636 (2015) 373-378.
+[92]	N.D. Stepanov, D.G. Shaysultanov, G.A. Salishchev, M.A. Tikhonovsky, E.E. Oleynik, A.S. Tortika, O.N. Senkov. Effect of V content on microstructure and mechanical properties of the CoCrFeMnNiVx high entropy alloys, J. Alloys Compd. 628 (2015) 170-185.
+[93]	T.-T. Shun, L.-Y. Chang, M.-H. Shiu. Microstructure and mechanical properties of multiprincipal component CoCrFeNiMox alloys, Mater. Charact. 70 (2012) 63-67.
+[94]	Y.-L. Chou, J.-W. Yeh, H.-C. Shih. The effect of molybdenum on the corrosion behaviour of the high-entropy alloys Co1.5CrFeNi1.5Ti0.5Mox in aqueous environments, Corros. Sci. 52 (2010) 2571-2581.
+[95]	W.H. Liu, J.Y. He, H.L. Huang, H. Wang, Z.P. Lu, C.T. Liu. Effects of Nb additions on the microstructure and mechanical property of CoCrFeNi high-entropy alloys, Intermetallics 60 (2015) 1-8.
+[96]	Y. Brif, M. Thomas, I. Todd. The use of high-entropy alloys in additive manufacturing, Scripta Mater. 99 (2015) 93-96.
+[97]	Z. Fu, W. Chen, H. Xiao, L. Zhou, D. Zhu, S. Yang. Fabrication and properties of nanocrystalline Co0.5FeNiCrTi0.5 high entropy alloy by MA-SPS technique, Mater. Design 44 (2013) 535-539.
+[98]	L. Jiang, Y. Lu, Y. Dong, T. Wang, Z. Cao, T. Li. Annealing effects on the microstructure and properties of bulk high-entropy CoCrFeNiTi0.5 alloy casting ingot, Intermetallics 44 (2014) 37-43.
+[99]	L. Liu, J.B. Zhu, L. Li, J.C. Li, Q. Jiang. Microstructure and tensile properties of FeMnNiCuCoSnx high entropy alloys, Mater. Design 44 (2013) 223-227.
+[100]	L. Liu, J.B. Zhu, C. Zhang, J.C. Li, Q. Jiang. Microstructure and the properties of FeCoCuNiSnx high entropy alloys, Mater. Sci. Eng. A 548 (2012) 64-68.
+[101]	Y.-F. Kao, S.-K. Chen, J.-H. Sheu, J.-T. Lin, W.-E. Lin, J.-W. Yeh, S.-J. Lin, T.-H. Liou, C.-W. Wang. Hydrogen storage properties of multi-principal-component CoFeMnTixVyZrz alloys, Int. J. Hydrogen Energ. 35 (2010) 9046-9059.
+[102]	B. Ren, Z.X. Liu, D.M. Li, L. Shi, B. Cai, M.X. Wang. Effect of elemental interaction on microstructure of CuCrFeNiMn high entropy alloy system, J. Alloys Compd. 493 (2010) 148-153.
+[103]	Z. Wu, H. Bei. Microstructures and mechanical properties of compositionally complex Co-free FeNiMnCr18 FCC solid solution alloy, Mat. Sci. Eng. A 640 (2015) 217-224.
+[104]	H.-W. Chang, P.-K. Huang, A. Davison, J.-W. Yeh, C.-H. Tsau, C.-C. Yang. Nitride films deposited from an equimolar Al-Cr-Mo-Si-Ti alloy target by reactive direct current magnetron sputtering, Thin Solid Films 516 (2008) 6402-6408.
+[105]	O.N. Senkov, S.V. Senkova, C. Woodward. Effect of aluminum on the microstructure and properties of two refractory high entropy alloys, Acta Mater. 68 (2014) 214-228.
+[106]	O.N. Senkov, C. Woodward, D.B. Miracle. Microstructure and Properties of Aluminum-Containing Refractory High-Entropy Alloys, JOM 66 (2014) 2030-2042.
+[107]	O.N. Senkov, D. Isheim, D.N. Seidman, A.L. Pilchak. Development of a Refractory High Entropy Superalloy, Entropy 18 (2016) 102.
+[108]	J.K. Jensen, B.A. Welk, R.E.A. Williams, J.M. Sosa, D.E. Huber, O.N. Senkov, G.B. Viswanathan, H.L. Fraser. Characterization of the microstructure of the compositionally complex alloy Al1Mo0.5Nb1Ta0.5Ti1Zr1, Scripta Mater. 121 (2016) 1-4.
+[109]	X. Yang, Y. Zhang, P.K. Liaw. Microstructure and compressive properties of NbTiVTaAlx high entropy alloys, Procedia Eng. 36 (2012) 292-298.
+[110]	O.N. Senkov, C.F. Woodward. Microstructure and properties of a refractory NbCrMo0.5Ta0.5TiZr alloy, Mater. Sci. Eng. A 529 (2011) 311-320.
+[111]	O.N. Senkov, S.V. Senkova, C. Woodward, D.B. Miracle. Low-density, refractory multi-principal element alloys of the Cr–Nb–Ti–V–Zr system: Microstructure and phase analysis, Acta Mater. 61 (2013) 1545-1557.
+[112]	O.N. Senkov, J.M. Scott, S.V. Senkova, D.B. Miracle, C.F. Woodward. Microstructure and room temperature properties of a high-entropy TaNbHfZrTi alloy, J. Alloys Compd. 509 (2011) 6043-6048.
+[113]	O.N. Senkov, S.L. Semiatin. Microstructure and properties of a refractory high-entropy alloy after cold working, J. Alloys Compd. 649 (2015) 1110-1123.
+[114]	Y.D. Wu, Y.H. Cai, T. Wang, J.J. Si, J. Zhu, Y.D. Wang, X.D. Hui. A refractory Hf25Nb25Ti25Zr25 high-entropy alloy with excellent structural stability and tensile properties, Mater. Lett. 130 (2014) 277-280.
+[115]	O.N. Senkov, G.B. Wilks, D.B. Miracle, C.P. Chuang, P.K. Liaw. Refractory high-entropy alloys, Intermetallics 18 (2010) 1758-1765.
+[116]	O.N. Senkov, G.B. Wilks, J.M. Scott, D.B. Miracle. Mechanical properties of Nb25Mo25Ta25W25 and V20Nb20Mo20Ta20W20 refractory high entropy alloys, Intermetallics 19 (2011) 698-706.
+[117]	X. Yang, S.Y. Chen, J.D. Cotton, Y. Zhang. Phase Stability of Low-Density, Multiprincipal Component Alloys Containing Aluminum, Magnesium, and Lithium, JOM 66 (2014) 2009-2020.
+[118]	K.M. Youssef, A.J. Zaddach, C. Niu, D.L. Irving, C.C. Koch. A novel low density, high hardness, high-entropy alloy with close-packed single-phase nanocrystalline structures, Mater. Res. Lett. 3 (2014) 95-99.
+[119]	A. Takeuchi, K. Amiya, T. Wada, K. Yubuta, W. Zhang. High-Entropy Alloys with a Hexagonal Close-Packed Structure Designed by Equi-Atomic Alloy Strategy and Binary Phase Diagrams, JOM 66 (2014) 1984-1992.
+[120]	L. Ma, L. Wang, T. Zhang, A. Inoue. Bulk glass formation of Ti-Zr-Hf-Cu-M (M=Fe, Co, Ni) alloys, Mater. Trans. JIM 43 (2002) 277-280.
+[121]	J.O.A. Paschoal, H. Kleykamp, F. Thummler. Phase equilibria in the quaternary molybdenum-ruthenium-rhodium-palladium system, Z. Metallkd. 74 (1983) 652.
