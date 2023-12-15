@@ -2,3 +2,4 @@ requirements:
 SciDownl # https://github.com/Tishacy/SciDownl for downloading pdfs
 pdfminer.six # https://github.com/pdfminer/pdfminer.six for extracting text from pdf
 pip install farm-haystack[all]
+pip install langchain
